@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moving Platform
+  - Rock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Platform
+  - Moving Platform
+  - Player
+  - One Way Collision
+  - Movable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background 1
+    uniqueID: 2279594659
+    locked: 0
+  - name: Background 2
+    uniqueID: 40955965
+    locked: 0
+  - name: Background 3
+    uniqueID: 1691694849
+    locked: 0
+  - name: Background 4
+    uniqueID: 2626932387
+    locked: 0
+  - name: Ground
+    uniqueID: 2736982163
+    locked: 0
+  - name: Force Back
+    uniqueID: 2767581577
+    locked: 0
+  - name: Back
+    uniqueID: 614718337
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 744608117
+    locked: 0
+  - name: Force Front
+    uniqueID: 3010735803
+    locked: 0
+  - name: Force Force Front
+    uniqueID: 3250504077
+    locked: 0
+  - name: Foreground
+    uniqueID: 2478236773
+    locked: 0
